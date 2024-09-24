@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Elias</h1>
-<h3 align="center">Apaixonado por Análise de Dados e Inteligência Artificial</h3>
+<h3 align="center">Estudante de Análise de Dados e Inteligência Artificial</h3>
 
 - 🔭 Atualmente estou trabalhando no **Portifólio de Dados**
 
