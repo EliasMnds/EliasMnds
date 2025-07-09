@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou o Elias</h1>
-<h3 align="center">Estudante de Análise de Dados e Inteligência Artificial</h3>
+<h3 align="center">Ciêntista de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando no **Portifólio de Dados**
+- 🔭 Atualmente estou trabalhando como **Cientista de Dados**
 
-- 🌱 Estou cada dia mais desenvolvendo a **Análise e Visualização dos Dados**
+- 🌱 Estou cada dia mais desenvolvendo o conhecimento em **IA/ML/GenAI**
 
-- 👯 Estou na procura de um **Estágio em dados**
+- 👯 Tenho atuado em projetos para outras empresas, onde busco solucionar problemas com a Ciência de Dados, facilitando a vida do nosso cliente e deployando serviços que o ajudem em custos e tempo. 
 
 - 📫 Meu email **eliasmnds.cs@gmail.com**
 
